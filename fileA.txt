@@ -2,6 +2,3 @@
 Feature Brach
 <<<<<<< HEAD
 version2
-=======
-Version2
->>>>>>> feature
