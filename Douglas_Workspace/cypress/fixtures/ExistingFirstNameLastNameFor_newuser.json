@@ -1,0 +1,9 @@
+{
+    "Gender" : "Frau",
+    "FirstName" : "A",
+    "LastName" : "Roy",
+    "DOB" : "21011990",
+    "Email"  : "abc1@dxc.com",
+    "Password" :   "Crs@29",
+    "Comment" : "The FirstName , LastName combination is already used - values should be corrected - Unsuccessful User Registration"
+}
