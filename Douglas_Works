@@ -1,0 +1,14 @@
+*There are 2 sections of this project. Tese 2 main testsuites are present in ..\cypress\integration\2-advanced-examples folder
+a) Existing User login
+b) New User Registration
+
+*Scenarios considered. Corresponding sample data files are present in ..\cypress\fixtures location
+a) Existing User login:
+  i)Correct Email id and Password
+  ii)incorrect credentials (incorrect userid/password/both)
+
+b) New User Registration:
+  i)Correct User details for registration
+  ii)incorrect user details (existing email id/ incorrect DOB)
+  
+ *Page objects format are followed. Objects are placed in ..\cypress\support location
